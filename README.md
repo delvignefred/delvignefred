@@ -36,8 +36,6 @@
 
 <img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
 
-<img align="left" alt="Gulp" width="26px" src="https://www.svgrepo.com/show/303440/gulp-logo.svg" />
-
 <br/>
 
 ## Mes statistiques GitHub :
