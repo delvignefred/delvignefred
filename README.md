@@ -37,8 +37,3 @@
 <img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
 
 <br/>
-
-## Mes statistiques GitHub :
-
-  <img align="left" alt="delvignefred GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=delvignefred&show_icons=true&hide_border=false&title_color=ff0000&icon_color=ff0000&bg_color=09131B&text_color=ffffff&border_color=#ffffff" />
-
