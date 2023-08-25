@@ -34,6 +34,6 @@
 
 <img align="left" alt="Sass" width="26px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
 
-<img align="left" alt="Tailwind" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
+<img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" />
 
 <br/>
