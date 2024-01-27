@@ -16,9 +16,9 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
 
-<img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
-
 <br />
+
+<img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
 
